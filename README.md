@@ -2,7 +2,7 @@
 ### A [Your Role, e.g., Full-Stack Developer | Data Scientist] from [Location]  
 
 💻 **Tech Stack:**  
-![Languages/Tools](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,rust,aws,docker,postgres,git,github&perline=6)  
+![Languages/Tools](https://skillicons.dev/icons?i=js,ts,python,java,git,github&perline=6)  
 
 🌱 **Currently Learning:** [e.g., Next.js, Machine Learning]  
 🔭 **Working on:** [Your current project]  
