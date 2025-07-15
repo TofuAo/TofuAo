@@ -1,5 +1,5 @@
-# 👋 Hi, I’m [Your Name]!  
-### A [Your Role, e.g., Full-Stack Developer | Data Scientist] from [Location]  
+# 👋 Hi, I’m SYED MUHAMMAD KHALID AL-YAHYA!  
+### A Full-Stack Developer from MALAYSIA  
 
 💻 **Tech Stack:**  
 ![Languages/Tools](https://skillicons.dev/icons?i=js,ts,python,java,git,github&perline=6)  
