@@ -4,7 +4,7 @@
 💻 **Tech Stack:**  
 ![Languages/Tools](https://skillicons.dev/icons?i=js,ts,python,java,git,github&perline=6)  
 
-🌱 **Currently Learning:** [e.g., Next.js, Machine Learning]  
+🌱 **Currently Learning:** [Machine Learning]  
 🔭 **Working on:** [MyCampusApp]  
 📫 **How to reach me:** [syedmuhammadkhalidalyahya@gmail.com / www.linkedin.com/in/syed-khalid-a94103301]  
 
