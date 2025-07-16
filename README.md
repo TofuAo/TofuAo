@@ -14,8 +14,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TofuAo&layout=compact&theme=radical)  
 
 ### **🚀 Featured Projects**  
-- [Project 1](https://github.com/your-username/project-1) - Short description.  
-- [Project 2](https://github.com/your-username/project-2) - Short description.  
+- [Project 1](https://github.com/your-username/project-1) - Short description. (To Be Continue) 
+- [Project 2](https://github.com/your-username/project-2) - Short description. (To Be Continue)
 
 ### **📬 Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syed-khalid-a94103301)  
